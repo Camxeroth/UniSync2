@@ -12,4 +12,4 @@ Como se sabe todos los estudiantes universitarios buscan optimizar su tiempo, y 
 - Victor Erick Acaro Bustos: Programación y desarrollo de la aplicación.
 - Leandre Jeshua Luzuriaga Chávez: El Documentador
 - Camilo Enrique Morocho Vinueza: El Administrador GitHub
-- Angel Quiguiri:  El Diseñador digital
+- Angel Abimael Quiguiri Jatzatza:  El Diseñador digital
