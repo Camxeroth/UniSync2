@@ -6,8 +6,9 @@ Crear una plataforma digital ayude a mejorar la vida estudiantil, facilitando la
 Los problemas de los estudiantes universitarios enfrentan constantemente es la desinformación y un estrés debido a que la información de las clases, eventos y tutorías. lo cual esta disperso porque esta en múltiples plataformas como lo son las redes sociales, aulas virtuales y servicios de mensajeria instantanea lo cual esto dificulta la integración y un éxito académico.
 
 ## Público Objetivo
+Como se sabe todos los estudiantes universitarios buscan optimizar su tiempo, y mejorar sus calificaciones constantemente mediante el estudio colaborativo.
 
 ## Integrantes y roles
 - Victor Erick Acaro Bustos: Programación y desarrollo de la aplicación.
-- 
-- 
+- Leandre Jeshua Luzuriaga Chávez
+- Camilo Enrique Morocho Vinueza
