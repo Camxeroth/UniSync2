@@ -1,0 +1,18 @@
+Funciones Principales:
+La plataforma puede gestionar las actividades y preparación académica, donde:
+- Permite organizar un horario para realizar actividades, y clasificarlas según su importancia.
+- Cuando en el horario haya una aactividad por cerrar, se notificará al usuario un desde día hasta 5 horas antes.
+- Incluye un gestor de archivos para cada materia asignada.
+- Mediante funciones de IA, puede ser capáz de responer preguntas, realizar resumenes, cuestionarios, infografías con el contenido que se le cargue.
+- Sistema de mensajería y llamada entre usuarios y grupos.
+- Creación de grupo de estudios
+
+Ventajas:
+- Sus funciones no requieren una conexión de internet, exepto la interacción de usuarios y la carga de archivos.
+- Permite compartir los horarios y material de estudio entre usuarios y grupos.
+- Tiene tanto versión web como aplicación.
+- Funciona tanto para móbiles como para computadoras.
+
+Posibles mejoras futuras:
+- Implementación de un chatbot como asistente del usuaro.
+- Simuladores de cuestionarios que ya no contengan solo preguntas de seleccionar la opción correcta.
